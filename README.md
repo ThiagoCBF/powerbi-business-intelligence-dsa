@@ -1,10 +1,12 @@
 # 📊 Power BI para Business Intelligence e Data Science
 
-Este repositório reúne meus estudos, anotações e projetos desenvolvidos ao longo do curso **Microsoft Power BI para Business Intelligence e Data Science**.
+Este repositório reúne meus estudos, anotações e projetos desenvolvidos ao longo do curso **Microsoft Power BI para Business Intelligence e Data Science**, da Data Science Academy (DSA).
+
+Foram mais de **72+ horas de conteúdo**, com a construção de **15+ dashboards** e diversas análises aplicadas a áreas como **vendas, marketing, finanças, RH e logística**.
 
 O objetivo foi ir além da ferramenta e entender como dados podem ser transformados em **informação útil para tomada de decisão**.
 
-Aplicar conceitos de Business Intelligence na prática, trabalhando desde a **extração e tratamento de dados** até a **criação de dashboards interativos e análises de negócio**.
+Ao longo do processo, apliquei conceitos de Business Intelligence na prática, trabalhando desde a **extração e tratamento de dados** até a **criação de dashboards interativos e análises orientadas a negócio**.
 
 ---
 
@@ -36,11 +38,12 @@ Aplicar conceitos de Business Intelligence na prática, trabalhando desde a **ex
 
 ### 📌 Análise de Negócio
 - Aplicação de BI em diferentes áreas:
-  L Vendas  
-  L Marketing  
-  L Finanças  
-  L Recursos Humanos  
-  L Logística  
+  
+  + Vendas  
+  + Marketing  
+  + Finanças  
+  + Recursos Humanos  
+  + Logística  
 - Definição e análise de KPIs  
 
 ---
