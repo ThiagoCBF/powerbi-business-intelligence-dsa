@@ -53,7 +53,7 @@ Aplicar conceitos de Business Intelligence na prática, trabalhando desde a **ex
 - Salário Médio  
 - Envolvimento no Trabalho 
 
-📷 `PowerBI - RH/Dashboard01.png`
+📷 `PowerBI-RH/Dashboard01.png`
 
 ---
 
@@ -63,7 +63,7 @@ Aplicar conceitos de Business Intelligence na prática, trabalhando desde a **ex
 - Performance e Eficácia das Campanhas 
 - Análise Geográfica e Temporal de Vendas  
 
-📷 `PowerBI - Marketing/4dashboards.png`
+📷 `PowerBI-Marketing/4dashboards.png`
 
 ---
 
@@ -73,7 +73,7 @@ Aplicar conceitos de Business Intelligence na prática, trabalhando desde a **ex
 - Fluxo de caixa  
 - Indicadores financeiros  
 
-📷 `PowerBI - Financeiro/Dashboard01.png`
+📷 `PowerBI-Financeiro/Dashboard01.png`
 
 ---
 
@@ -83,7 +83,7 @@ Aplicar conceitos de Business Intelligence na prática, trabalhando desde a **ex
 - Nível de estoque  
 - Eficiência operacional  
 
-📷 `PowerBI - Logística/Dashboard01.png`
+📷 `PowerBI-Logística/Dashboard01.png`
 
 ---
 
