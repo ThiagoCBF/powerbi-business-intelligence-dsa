@@ -53,7 +53,7 @@ Aplicar conceitos de Business Intelligence na prática, trabalhando desde a **ex
 - Salário Médio  
 - Envolvimento no Trabalho 
 
-📷 `PowerBI-RH/Dashboard01.png`
+![Dashboards](PowerBI-RH/Dashboard01.png)
 
 ---
 
@@ -63,37 +63,58 @@ Aplicar conceitos de Business Intelligence na prática, trabalhando desde a **ex
 - Performance e Eficácia das Campanhas 
 - Análise Geográfica e Temporal de Vendas  
 
-📷 `PowerBI-Marketing/4dashboards.png`
+![Dashboards](PowerBI-Marketing/4dashboards.png)
 
 ---
 
 ### 💰 Dashboard Financeiro
 - Receita vs despesas  
 - Margem de lucro  
-- Fluxo de caixa  
-- Indicadores financeiros  
+- Receitas e Despesas por Componente 
+- Indicadores e Segmentos financeiros  
 
-📷 `PowerBI-Financeiro/Dashboard01.png`
+![Dashboards](PowerBI-Financeiro/Dashboard01.png)
 
 ---
 
 ### 🚚 Dashboard Logístico
-- Tempo de entrega  
-- Taxa de devolução  
-- Nível de estoque  
+- Total de Entregas  
+- Entregas por Mês  
+- Avaliação por Entregador  
 - Eficiência operacional  
 
-📷 `PowerBI-Logística/Dashboard01.png`
+![Dashboards](PowerBI-Logística/Dashboard01.png)
 
 ---
 
 ## 🛠️ Ferramentas Utilizadas
 
-- Power BI Desktop  
-- Power Query  
-- DAX  
-- Excel / CSV  
+- Power BI (visualização e análise de dados)  
+- Power Query (ETL e transformação de dados)  
+- DAX (criação de métricas e análises avançadas)  
+- Linguagem M (manipulação de dados no Power Query)  
+- Excel / CSV (fontes de dados) 
 
 ---
 
-## 📂 Estrutura do Repositório
+## 📌 Próximos Passos
+
+- Criar dashboards com dados reais  
+- Integrar com SQL  
+- Desenvolver projetos mais próximos de cenários de negócio  
+- Evoluir para engenharia de dados  
+
+---
+
+## 💡 Considerações
+
+Este projeto representa minha evolução no uso do Power BI e no entendimento de como transformar dados em insights.
+
+Mais do que visualizações, o foco foi desenvolver uma visão analítica voltada para **negócio e tomada de decisão**.
+
+---
+
+## 📬 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/thiago-cbferreira/)  
+- [GitHub](https://github.com/ThiagoCBF)
